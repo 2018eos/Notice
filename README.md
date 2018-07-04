@@ -21,3 +21,18 @@
 
 ![image](https://user-images.githubusercontent.com/37801405/42258552-44d7b15e-7f97-11e8-9fc6-a8e242d2b20c.png)
 
+### 이미지 업로드는 어떻게 하나요?
+- 참고) https://hanee24.github.io/2017/12/21/how-to-upload-image-with-github-readme/
+1. Repository(하나의 프로젝트 당 하나의 repository가 생성되어있음)에서 Code 우측 Issue 클릭
+
+  ![image](https://user-images.githubusercontent.com/37801405/42258631-b43b2bd4-7f97-11e8-9d61-db2713d9b79f.png)
+
+2. New Issue 클릭
+
+  ![image](https://user-images.githubusercontent.com/37801405/42258693-f668fedc-7f97-11e8-966e-9378f35ecb94.png)
+
+3. 이미지를 복사해서 Leave a comment에 붙여넣기 하면 아래와 같이 나옴
+  ![image](https://user-images.githubusercontent.com/37801405/42258699-fb881f38-7f97-11e8-9dac-4f9c0a0a9e40.png)
+
+4. 저 링크를 그대로 복사해 이미지가 들어갈 위치에 붙여넣어주면 되는데 위에 한 줄 넣어주어야 함. 작은 이미지의 경우 줄 뒤에 붙어서 나올 수도 있기에...
+* 애초에 Markdown에서 줄바꿈은 두 줄입니다.
